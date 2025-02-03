@@ -1,6 +1,6 @@
 # PDF Chatbot with LangChain, Hugging Face, and Pinecone
-
-This project implements a PDF-based chatbot that leverages LangChain for document loading and text splitting, Hugging Face for generating embeddings and text outputs, and Pinecone for vector storage and similarity search. The chatbot processes a PDF file, extracts and preprocesses its content, splits it into manageable chunks, indexes the chunks for semantic search, and finally answers user queries by retrieving relevant context and generating concise responses using the Google Flan-T5 model.
+#### (only answers content related to that pdf else it says it isnt covered in my materials) 
+This project implements a PDF-based chatbot  that leverages LangChain for document loading and text splitting, Hugging Face for generating embeddings and text outputs, and Pinecone for vector storage and similarity search. The chatbot processes a PDF file, extracts and preprocesses its content, splits it into manageable chunks, indexes the chunks for semantic search, and finally answers user queries by retrieving relevant context and generating concise responses using the Google Flan-T5 model.
 
 ![Chatbot Flow Diagram](ref1.png)
 
