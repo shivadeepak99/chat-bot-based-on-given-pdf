@@ -27,3 +27,7 @@ Ensure you have Python 3.7 or higher installed. Then, install the required packa
    ```bash
    python -m venv venv
    source venv/bin/activate   # On Windows: venv\Scripts\activate
+Acknowledgments
+LangChain
+Hugging Face Transformers
+Pinecone
