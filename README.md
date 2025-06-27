@@ -18,16 +18,5 @@ This project implements a PDF-based chatbot  that leverages LangChain for docume
 
 ---
 
-## Installation
-
-Ensure you have Python 3.7 or higher installed. Then, install the required packages. It is recommended to use a virtual environment:
-
-1. **Create and activate a virtual environment (optional but recommended):**
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
-Acknowledgments
-LangChain
 Hugging Face Transformers
 Pinecone
